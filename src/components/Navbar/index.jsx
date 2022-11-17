@@ -5,6 +5,7 @@ const Navbar = () => {
     return (
             <Container>
                 <NavImg image={Logo}></NavImg>
+                <NavItem>Home</NavItem>
                 <NavItem>Infos</NavItem>
                 <NavItem>Skills</NavItem>
                 <NavItem>Lore</NavItem>

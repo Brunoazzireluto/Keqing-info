@@ -13,7 +13,7 @@ export const Container = styled.div `
     
 `
 export const NavImg = styled.div`
-    width: 25%;
+    width: 15%;
     height: 60px;
     background-image: url(${(props) => props.image});
     background-repeat: no-repeat;
@@ -21,9 +21,15 @@ export const NavImg = styled.div`
 `
 
 
-export const NavItem = styled.p `
+export const NavItem = styled.a `
+    text-decoration: none;
     text-align: center;
     color: #DFDDE8;
     font-family: 'Klee One', cursive;
     font-size: 1.7rem;
+    cursor: pointer;
+    
+    &:hover{
+        filter: drop-shadow(0 0 0.75rem white);
+    }
 `

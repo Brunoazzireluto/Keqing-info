@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Keqing - Infos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small front end project based on [Anna Lebedeva's](https://dribbble.com/shots/18722056-Genshin-Impact-website-concept) design
 
-## Available Scripts
+## 📖 About
 
-In the project directory, you can run:
+<br>
 
-### `npm start`
+a front end project of the character Keqing from the game Genshin impact.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+All information belongs to [Mihoyo Co., Ltd](https://www.mihoyo.com)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+project only for studying and training the React library
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 🛠️ Tools used in the project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div style="display: inline_block">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html"><img align="center" style="margin: 3px"  alt="React" src="https://img.shields.io/badge/-react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
 
-### `npm run eject`
+  <a href="https://reactrouter.com/en/main/start/tutorial"><img align="center" style="margin: 3px"  alt="React-Router" src="https://img.shields.io/badge/-react%20router-%23CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" /></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  <a href="https://create-react-app.dev"><img align="center" style="margin: 3px"  alt="react-cli" src="https://img.shields.io/badge/-react%20cli-%2309D3AC?style=for-the-badge&logo=createreactapp&logoColor=white" /></a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  <a href="https://styled-components.com/docs/basics#installation"><img align="center" style="margin: 3px"  alt="styled-components" src="https://img.shields.io/badge/-styled--components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" /></a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br>
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Made by Bruno Alves

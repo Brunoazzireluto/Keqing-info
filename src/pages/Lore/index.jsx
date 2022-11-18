@@ -1,5 +1,6 @@
 import Keging from "../../images/keqing.webp"
 import Navbar from "../../components/Navbar";
+import PageTitle from "../../components/PageTitle"
 import ImageBackground from "../../components/ImageBackground";
 import Footer from "../../components/Footer";
 import BottomRowLine from "../../components/BottomRowLine";
@@ -40,6 +41,7 @@ const Lore = () => {
             transition={pageTransition}
         >
             <Navbar />
+            <PageTitle title="Lore" />
             <Container>
                 <InfoContainer>
                     <Text>

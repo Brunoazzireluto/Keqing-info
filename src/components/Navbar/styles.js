@@ -18,6 +18,8 @@ export const NavImg = styled.div`
     background-image: url(${(props) => props.image});
     background-repeat: no-repeat;
     background-size: contain;
+    cursor: pointer;
+
 `
 
 
